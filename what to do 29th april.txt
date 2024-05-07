@@ -1,0 +1,5 @@
+find out why i am getting error 500 when trying to send data to the server ( make a listing )
+make the log in function to send data to the server ( user data ) 
+fix the footer issue
+add the bidding button and its functionality ( inside the details page )
+add the description ( and tell the backend to add it to the server and db ) 
